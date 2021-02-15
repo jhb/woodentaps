@@ -68,3 +68,6 @@ And the front
 
 Now send an email with the files (the scan as image or pdf, and the three images with all taps, 
 side shot and front shot) to ryan@woodentaps.com.
+
+
+
