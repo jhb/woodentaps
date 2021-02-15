@@ -1,4 +1,4 @@
-## Welcome to woodentaps
+## Instructions on how to create drawing for your wooden taps.
 
 In order to create your custom wooden taps, some drawings and photos are required. 
 It is easy process, and we do it together step by step :-)
