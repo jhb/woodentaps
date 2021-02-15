@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+## Welcome to woodentaps
 
-You can use the [editor on GitHub](https://github.com/jhb/woodentaps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+In order to create your custom wooden taps, some drawings and photos are required. 
+It is easy process, and we do it together step by step :-)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1. Basic drawing
 
-### Markdown
+We need an scaled outline drawing of your taps. This is what the wooden taps are created 
+from.  It looks like this:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![scaled outline drawing](drawing_small.jpg)](drawing.jpg)
 
-```markdown
-Syntax highlighted code block
+How do we get there?
 
-# Header 1
-## Header 2
-### Header 3
+1. Draw a rectangular cross on the right side of a sheet of paper, with enough
+   space for your taps on the right of the cross.
+   
+2. Mark points in all directions either 5cm or 2 inches away from the center. This
+   is the most crucial step!
+   
+3. Draw the outlines of your front and heel taps, and don't forget the holes. Make the line
+   quite tight. 
+   
+### 2. Scan of the drawing
 
-- Bulleted
-- List
+The drawing is crucial, and it is important to get it accurately transported. Find a scanner
+and scan it in its orginal size. Best is, if you scan it to a pdf, like here: [scan.pdf](scan.pdf)
 
-1. Numbered
-2. List
+Alternatively you can scan it to an image, which then looks like this:
 
-**Bold** and _Italic_ and `Code` text
+[![scanned drawing](scan_small.jpg)](scan.jpg)
 
-[Link](url) and ![Image](src)
-```
+It is really important to use a proper scanner, and not you mobile phone camera. If you don't have
+one, please ask a friend or a copy shop, or use a fax machine. Using a mobile phone camera will
+distort the image, and the wooden taps will come out in the wrong shape!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 3. Combined photo
 
-### Jekyll Themes
+Last, we need a photo of your real taps as well:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhb/woodentaps/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![good photo](good_small.jpg)](good.jpg)
 
-### Support or Contact
+(My taps have little pieces of leather glued in, to slightly soften the sound, you don't need those)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+This image helps to get a better understanding of the shape of the taps.
+
+Make sure that you take the picture right from above. What we **don't want** is a distorted shot 
+like this:
+
+[![bad photo](bad_small.jpg)](bad.jpg)
+
+This would give a complete wrong impression.
+
+### 4. Side and front shots
+
+Last but not least we need some front and side shots of the taps. These are to give a rough idea
+of the shape. Try to take the pictures looking straight at the taps.
+
+From the side:
+
+[![side shot](side_small.jpg)](side.jpg)
+
+And the front
+
+[![front shot](front_small.jpg)](front.jpg)
+
+### 5. Send it all off
+
+Now send an email with the files (the scan as image or pdf, and the three images with all taps, 
+side shot and front shot) to ryan@woodentaps.com.
