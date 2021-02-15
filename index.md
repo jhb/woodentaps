@@ -5,7 +5,7 @@ It is easy process, and we do it together step by step :-)
 
 ### 1. Basic drawing
 
-We need an scaled outline drawing of your taps. This is what the wooden taps are created 
+We need a scaled outline drawing of your taps. This is what the wooden taps are created 
 from.  It looks like this:
 
 [![scaled outline drawing](drawing_small.jpg)](drawing.jpg)
@@ -15,7 +15,7 @@ How do we get there?
 1. Draw a rectangular cross on the right side of a sheet of paper, with enough
    space for your taps on the right of the cross.
    
-2. Mark points in all directions either 5cm or 2 inches away from the center. This
+2. Mark points in all directions either 5 cm or two inches away from the center. This
    is the most crucial step!
    
 3. Draw the outlines of your front and heel taps, and don't forget the holes. Make the line
@@ -24,14 +24,14 @@ How do we get there?
 ### 2. Scan of the drawing
 
 The drawing is crucial, and it is important to get it accurately transported. Find a scanner
-and scan it in its orginal size. Best is, if you scan it to a pdf, like here: [scan.pdf](scan.pdf)
+and scan it in its original size. Best is, if you scan it to a pdf, like here: [scan.pdf](scan.pdf)
 
 Alternatively you can scan it to an image, which then looks like this:
 
 [![scanned drawing](scan_small.jpg)](scan.jpg)
 
-It is really important to use a proper scanner, and not you mobile phone camera. If you don't have
-one, please ask a friend or a copy shop, or use a fax machine. Using a mobile phone camera will
+It is really important to use a proper scanner, and not your mobile phone camera. If you don't have
+one, please ask a friend, or a copy shop, or use a fax machine. Using a mobile phone camera will
 distort the image, and the wooden taps will come out in the wrong shape!
 
 ### 3. Combined photo
@@ -60,7 +60,7 @@ From the side:
 
 [![side shot](side_small.jpg)](side.jpg)
 
-And the front
+From the front:
 
 [![front shot](front_small.jpg)](front.jpg)
 
