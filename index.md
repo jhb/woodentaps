@@ -67,7 +67,7 @@ From the front:
 ### 5. Send it all off
 
 Now send an email with the files (the scan as image or pdf, and the three images with all taps, 
-side shot and front shot) to ryan (at) woodentaps.com.
+side shot and front shot) to woodentaps (at) gmail.com.
 
 
 
