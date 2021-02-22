@@ -96,6 +96,7 @@ been ages ago, and I only did a bit of law and sociology after school, so its pr
 - e.g. x is WIDTH, y is the 'height' of the curve. We can now calculate r to be large number of 
   meters.
 
+Or one just skips the math, and probably has some sample curves on paper. :-)
 
 ## Other ways
 
