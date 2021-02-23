@@ -1,7 +1,7 @@
 ## Measure the curvature
 
 Remember working with paper back in elementary school? Today we find out why we learned all
-this. Kids, we are going to build a measurement stand...
+this. Kids, today we are going to build us a measurement stand...
 
 ![measurement stand](cimg/stand_middle.jpg)
 
